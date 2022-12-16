@@ -1,7 +1,7 @@
 # Sonsuz Kaydırma
 Php ve jQuery kullanarak nasıl sonsuz kaydırma yapılır.
 
-'''javascript
+```js
  $(document).ready(function() {
 
       var durum = "aktif";
@@ -54,4 +54,4 @@ Php ve jQuery kullanarak nasıl sonsuz kaydırma yapılır.
         }
       });
     });
-'''
+```
