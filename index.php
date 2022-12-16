@@ -33,7 +33,6 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      
     }
 
     .card {
@@ -71,7 +70,7 @@
           <div class="card mb-3" style="max-width: 600px">
             <div class="row g-0">
               <div class="col-md-6">
-                <img src="https://mustafa.sosyalyazar.com/ornek/img/snszkydrm/<?php echo $il->isim; ?>.jpg" class="img-fluid rounded-start" alt="..." />
+                <img src="/ornek/img/snszkydrm/<?php echo $il->isim; ?>.jpg" class="img-fluid rounded-start" alt="..." />
               </div>
               <div class="col-md-6">
                 <div class="card-body">
