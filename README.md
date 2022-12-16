@@ -1,6 +1,6 @@
 # Sonsuz Kaydırma
 Php ve jQuery kullanarak nasıl sonsuz kaydırma yapılır.
-
+  jQuery'de değişkenlerin kullanımı, ajax methodu ve fonksiyon kullanımı anlatıldı.
 ```js
  $(document).ready(function() {
 
