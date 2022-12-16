@@ -106,7 +106,7 @@
 
       function snszkydr(son, baslangic) {
         $.ajax({
-          url: "http://localhost/",
+          url: "https://mustafa/",
           type: "POST",
           data: {
             bslng: baslangic,
