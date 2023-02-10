@@ -1,4 +1,10 @@
 {
+   "authors": [
+        {
+            "name": "mustafa şimşek",
+            "email": "mustafa@laravel.com"
+        }
+    ],
   "reuire":{
     
   }
