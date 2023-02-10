@@ -1,5 +1,5 @@
 {
-    "name": "monolog/monolog",
+    "name": "deneyci/deneyci",
     "type": "library",
     "description": "Logging for PHP 8.0",
     "keywords": ["log","logging"],
