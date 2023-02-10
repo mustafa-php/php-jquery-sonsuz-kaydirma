@@ -1,11 +1,11 @@
 {
-   "authors": [
+    "repositories": [
         {
-            "name": "mustafa şimşek",
-            "email": "mustafa@laravel.com"
+            "type": "vcs",
+            "url": "https://github.com/mustafa-php/php-jquery-sonsuz-kaydirm"
         }
     ],
-  "reuire":{
-    
-  }
+    "require": {
+        "monolog/monolog": "dev-bugfix"
+    }
 }
